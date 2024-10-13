@@ -1,1 +1,1 @@
-[![Palm's GitHub stats](https://github-readme-stats.vercel.app/api?username=palmmc)](https://github.com/anuraghazra/github-readme-stats)
+[![Palm's GitHub stats](https://github-stats.com/palmmc/)]
