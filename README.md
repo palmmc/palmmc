@@ -1,11 +1,8 @@
 # Profile
 
 ## About Me
-Hi, I'm palm1! I'm like programming.
-
-My preferred language is typescript/javascript, but I also have a working knowledge of:
- - Python
- - Java
+Hi, I'm palm1! I'm a programmer that currently works on projects for Minecraft: Bedrock Edition.
+I am most experienced in typescript/javascript, but have a working knowledge of Python and Java.
 
 ## Projects
 <section className="section">
